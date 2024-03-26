@@ -23,3 +23,5 @@ Two Python files are part of a web scraping project using Scrapy to extract data
    - Again, the `cleanString` function is used to clean the extracted text data.
 
 The results of the web scraping process are stored in a JSON file with the corresponding names. Each JSON file contains structured data extracted from The New York Times website, including article titles, URLs, summaries, authors, and contents.
+
+## Obtain a subset of the movie industry to do some research
